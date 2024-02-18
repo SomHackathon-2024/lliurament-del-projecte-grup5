@@ -75,8 +75,10 @@ class RecommendationSystem:
         for clave, _ in islice(dicc.items(), 5):
             ruta_nombre = df_rutas.loc[df_rutas['id_ruta'] == clave, 'nombre'].values[0]
             descripcion = df_rutas.loc[df_rutas['id_ruta'] == clave, 'descripcion'].values[0]
+            longitud = int(df_rutas.loc[df_rutas['id_ruta'] == clave, 'distancia'].values[0])
+
             lugares = self.get_places(df_rutas,df_places,clave)
-            print(f"\n{i}. {ruta_nombre}: {descripcion}\n\nLa ruta incluye los siguientes puntos de interés:")
+            print(f"\n{i}. {ruta_nombre} ({longitud/1000} km): {descripcion}\n\nLa ruta incluye los siguientes puntos de interés:")
             for l in lugares:
                 print(f"-{l}")
             i += 1
