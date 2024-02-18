@@ -1,5 +1,43 @@
 ![Logo Somhackathon 2024](https://github.com/SomHackathon-2024/ReadMe-Organitzacio/blob/main/logo_som24petit.png)
 
+## Funcionalitatr del recomanador
+
+**generador_usuarios.py**
+
+Genera los usuarios
+
+
+**asignar_ruta_usuario.py**
+
+Asigna una ruta y valoración a los usuarios para poder crear el caso
+
+
+**CBR_rutas.py**
+
+Donde se crea el sistema de recomendación basado en casos
+
+
+**CHATbot.py**
+
+Chatbot que guía las preguntas realizadas al usuario
+
+
+**CONST.py**
+
+Fichero que contiene las variables para un uso más eficiente
+
+**Prepro_Cas_Script.py**
+
+Contiene dos funciones de preprocesamiento de las variables
+
+**init.py**
+
+Fichero para inicializar el recomendador.
+
+**clustering.ipynb**
+
+Notebook que contiene el proceso de clusterización de los casos de cada usuario.
+
 ## Reimaginem el Turisme Intel·ligent 
 
 Com podem enriquir l’experiència del visitant i alhora millorar la qualitat de vida dels residents a la ciutat 
