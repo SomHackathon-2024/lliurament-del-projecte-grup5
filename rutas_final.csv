@@ -1,0 +1,18 @@
+id_ruta,nombre,lugares_ruta,sectores,distancia
+0,Ruta dominguera,"[10, 15, 47, 34, 0, 42]","[cultura, gastronomia, natura, oci]",5920
+1,Ruta Cultural,"[10, 16, 48, 14, 11, 42]","[cultura, gastronomia]",4100
+2,Ruta Familiar,"[0, 41, 30, 27]","[oci, gastronomia, natura, comercio_local]",5200
+3,Ruta de Natura i Relajación,"[38, 36, 43, 78]","[natura, gastronomia, bienestar]",8200
+4,Ruta Gastronómica,"[40, 44, 43, 78]","[natura, gastronomia, bienestar]",3400
+5,Ruta de Compras,"[21, 23, 24, 46, 27]","[comercio_local, gastronomia]",3900
+6,Ruta de deportes i actividad física,"[52, 57, 46, 59]","[deporte, gastronomia]",3300
+7,Ruta Educativa e Innovadora,"[60, 61, 63, 40, 57]","[educacion, gastronomia]",2600
+8,Ruta de Bienestar i Relajación,"[71, 49, 74, 77, 33]","[bienestar, gastronomia, natura]",2900
+9,Ruta de entretenimiento nocturno,"[9, 45, 3, 1]","[oci, gastronomia]",2100
+10,Ruta Rutinaria,"[32, 40, 23]","[natura, gastronomia, comercio_local]",3400
+11,Ruta con amigos,"[54, 57, 46, 2, 1]","[deporte, gastronomia, oci]",5000
+12,Ruta para estudiantes y coles,"[10, 18, 19, 60, 68]","[cultura, educacion]",2100
+13,Ruta para turistas internacionales,"[13, 14, 15, 49, 26, 29]","[cultura, gastronomia, comercio_local]",6000
+14,Ruta para turistas locales,"[10, 11, 41, 28, 26]","[cultura, gastronomia, comercio_local]",5700
+15,Ruta para jubilados o gente mayor,"[16, 47, 17]","[cultura, gastronomia]",500
+16,Ruta costera por Mataró,"[60, 61, 18, 47, 31, 78]","[educacion, cultura, gastronomia, natura, bienestar]",6500
