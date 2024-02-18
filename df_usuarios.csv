@@ -1,0 +1,502 @@
+usuario,genero,edad,region,trabajo,musica,tarde_libre,vacaciones,mobilidad_reducida
+0,mujer,adulto,north america,trabajador,clasica,sofa,aventura,no
+1,mujer,adulto,europe,jubilado,reggeaton,playa,aventura,no
+2,hombre,joven,europe,nada,clasica,montaña,cultura,no
+3,prefiero no decirlo,adulto,asia,estudiante,pop,sofa,ocio,no
+4,mujer,adulto,europe,trabajador,pop,playa,ocio,no
+5,hombre,adulto,europe,estudiante,pop,sofa,aventura,no
+6,hombre,joven,europe,estudiante,pop,playa,ocio,no
+7,mujer,adulto,europe,trabajador,reggeaton,sofa,ocio,no
+8,mujer,adulto,africa,estudiante,clasica,bar,cultura,no
+9,hombre,adulto,oceania,trabajador,clasica,montaña,ocio,no
+10,mujer,adulto,europe,trabajador,reggeaton,playa,aventura,si
+11,mujer,niño,europe,estudiante,techno,playa,ocio,no
+12,mujer,joven,asia,estudiante,heavy metal,sofa,cultura,no
+13,prefiero no decirlo,adulto,africa,trabajador,reggeaton,sofa,cultura,no
+14,hombre,niño,europe,estudiante,reggeaton,playa,ocio,no
+15,hombre,adulto,africa,trabajador,heavy metal,montaña,ocio,si
+16,hombre,adulto,north america,estudiante,pop,bar,aventura,no
+17,hombre,joven,europe,estudiante,rap,sofa,aventura,no
+18,mujer,niño,europe,estudiante,reggeaton,playa,ocio,no
+19,hombre,adulto,europe,trabajador,pop,bar,ocio,no
+20,hombre,joven,north america,estudiante,reggeaton,montaña,ocio,no
+21,hombre,joven,europe,estudiante,reggeaton,sofa,ocio,no
+22,hombre,joven,oceania,estudiante,pop,bar,aventura,no
+23,hombre,adulto,asia,jubilado,reggeaton,sofa,ocio,no
+24,mujer,adulto,africa,trabajador,clasica,bar,cultura,no
+25,hombre,adulto,europe,jubilado,techno,montaña,aventura,no
+26,hombre,adulto,south america,jubilado,clasica,playa,ocio,no
+27,hombre,joven,europe,estudiante,reggeaton,playa,ocio,no
+28,mujer,niño,europe,estudiante,rap,sofa,cultura,no
+29,mujer,adulto,north america,trabajador,techno,montaña,aventura,si
+30,mujer,adulto,europe,trabajador,reggeaton,playa,cultura,si
+31,hombre,joven,europe,trabajador,reggeaton,sofa,aventura,no
+32,mujer,joven,europe,trabajador,pop,montaña,aventura,no
+33,hombre,joven,europe,estudiante,reggeaton,playa,aventura,no
+34,mujer,adulto,europe,trabajador,techno,playa,ocio,no
+35,prefiero no decirlo,niño,oceania,estudiante,techno,playa,aventura,no
+36,mujer,adulto,europe,trabajador,pop,bar,cultura,no
+37,mujer,joven,south america,nada,techno,playa,ocio,si
+38,mujer,joven,europe,trabajador,pop,playa,ocio,no
+39,mujer,joven,asia,nada,techno,montaña,ocio,no
+40,prefiero no decirlo,adulto,europe,trabajador,reggeaton,playa,ocio,no
+41,hombre,adulto,africa,nada,clasica,bar,cultura,no
+42,prefiero no decirlo,joven,africa,estudiante,heavy metal,bar,cultura,no
+43,mujer,adulto,south america,trabajador,reggeaton,playa,cultura,no
+44,mujer,adulto,oceania,jubilado,clasica,sofa,aventura,no
+45,mujer,adulto,north america,jubilado,clasica,sofa,aventura,no
+46,hombre,adulto,north america,trabajador,techno,sofa,aventura,no
+47,hombre,joven,asia,trabajador,techno,sofa,ocio,no
+48,mujer,adulto,europe,trabajador,techno,playa,cultura,no
+49,hombre,adulto,asia,trabajador,techno,sofa,cultura,no
+50,mujer,adulto,north america,trabajador,clasica,bar,cultura,no
+51,hombre,adulto,north america,trabajador,pop,playa,ocio,no
+52,prefiero no decirlo,adulto,europe,trabajador,pop,playa,aventura,si
+53,hombre,adulto,europe,nada,clasica,sofa,aventura,no
+54,prefiero no decirlo,adulto,oceania,jubilado,heavy metal,sofa,aventura,no
+55,hombre,adulto,europe,trabajador,reggeaton,bar,ocio,no
+56,hombre,niño,africa,estudiante,pop,montaña,ocio,no
+57,hombre,adulto,asia,jubilado,rap,sofa,aventura,no
+58,hombre,joven,north america,trabajador,clasica,sofa,aventura,no
+59,hombre,adulto,south america,jubilado,pop,bar,cultura,si
+60,mujer,adulto,europe,trabajador,clasica,playa,ocio,si
+61,hombre,adulto,north america,trabajador,heavy metal,playa,cultura,si
+62,hombre,adulto,south america,trabajador,heavy metal,montaña,ocio,si
+63,mujer,joven,south america,trabajador,techno,bar,aventura,no
+64,mujer,niño,europe,estudiante,clasica,playa,ocio,no
+65,mujer,adulto,south america,nada,clasica,bar,aventura,no
+66,mujer,adulto,south america,trabajador,pop,sofa,cultura,no
+67,hombre,adulto,oceania,trabajador,clasica,playa,aventura,no
+68,mujer,adulto,asia,jubilado,techno,sofa,aventura,no
+69,mujer,adulto,asia,nada,clasica,playa,ocio,no
+70,hombre,joven,north america,estudiante,heavy metal,playa,cultura,si
+71,mujer,adulto,europe,nada,clasica,playa,ocio,no
+72,hombre,joven,asia,trabajador,techno,sofa,cultura,no
+73,prefiero no decirlo,adulto,europe,trabajador,rap,playa,ocio,no
+74,mujer,adulto,africa,trabajador,pop,sofa,aventura,no
+75,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no
+76,prefiero no decirlo,adulto,south america,estudiante,reggeaton,sofa,cultura,no
+77,hombre,adulto,europe,trabajador,techno,montaña,ocio,no
+78,mujer,adulto,europe,trabajador,clasica,montaña,ocio,si
+79,hombre,adulto,europe,jubilado,reggeaton,montaña,aventura,no
+80,hombre,joven,asia,estudiante,rap,bar,ocio,no
+81,mujer,joven,africa,estudiante,heavy metal,montaña,aventura,no
+82,mujer,adulto,europe,jubilado,pop,montaña,ocio,no
+83,mujer,adulto,north america,trabajador,rap,bar,aventura,no
+84,mujer,adulto,asia,jubilado,pop,sofa,ocio,no
+85,mujer,adulto,oceania,trabajador,heavy metal,bar,aventura,si
+86,hombre,adulto,europe,estudiante,heavy metal,sofa,aventura,no
+87,mujer,adulto,oceania,jubilado,heavy metal,montaña,aventura,no
+88,mujer,joven,europe,estudiante,pop,bar,ocio,no
+89,hombre,niño,oceania,estudiante,techno,montaña,aventura,no
+90,mujer,adulto,europe,jubilado,clasica,montaña,cultura,si
+91,hombre,adulto,europe,trabajador,techno,montaña,ocio,si
+92,hombre,adulto,south america,trabajador,pop,bar,cultura,si
+93,mujer,adulto,north america,trabajador,clasica,playa,aventura,no
+94,hombre,adulto,europe,trabajador,clasica,playa,aventura,no
+95,mujer,niño,europe,estudiante,techno,montaña,cultura,no
+96,hombre,adulto,asia,nada,heavy metal,bar,cultura,no
+97,mujer,joven,europe,estudiante,reggeaton,playa,aventura,si
+98,hombre,adulto,africa,jubilado,heavy metal,playa,ocio,no
+99,mujer,adulto,europe,estudiante,clasica,playa,ocio,no
+100,hombre,adulto,europe,trabajador,clasica,montaña,ocio,no
+101,mujer,adulto,asia,trabajador,clasica,montaña,ocio,si
+102,hombre,joven,north america,estudiante,techno,sofa,cultura,no
+103,hombre,joven,europe,estudiante,techno,bar,aventura,no
+104,mujer,adulto,asia,jubilado,pop,playa,ocio,no
+105,mujer,joven,asia,trabajador,reggeaton,bar,cultura,no
+106,hombre,adulto,africa,trabajador,clasica,montaña,cultura,no
+107,mujer,joven,europe,nada,reggeaton,bar,ocio,no
+108,mujer,adulto,asia,trabajador,clasica,playa,ocio,no
+109,mujer,joven,europe,estudiante,reggeaton,playa,ocio,no
+110,mujer,adulto,europe,trabajador,heavy metal,sofa,ocio,no
+111,hombre,adulto,europe,jubilado,techno,bar,cultura,no
+112,hombre,adulto,europe,estudiante,clasica,montaña,ocio,no
+113,hombre,joven,europe,estudiante,heavy metal,sofa,ocio,no
+114,hombre,niño,europe,estudiante,heavy metal,sofa,ocio,no
+115,hombre,adulto,europe,trabajador,heavy metal,sofa,ocio,no
+116,mujer,joven,north america,estudiante,pop,playa,ocio,no
+117,hombre,adulto,asia,trabajador,heavy metal,playa,aventura,no
+118,mujer,adulto,europe,trabajador,clasica,bar,ocio,no
+119,mujer,adulto,europe,jubilado,pop,playa,aventura,no
+120,mujer,niño,europe,estudiante,reggeaton,playa,cultura,no
+121,hombre,adulto,europe,jubilado,rap,montaña,cultura,no
+122,mujer,adulto,europe,trabajador,clasica,sofa,aventura,si
+123,mujer,adulto,south america,nada,clasica,bar,ocio,no
+124,hombre,adulto,africa,trabajador,reggeaton,playa,cultura,no
+125,mujer,adulto,europe,jubilado,pop,sofa,ocio,no
+126,prefiero no decirlo,joven,europe,estudiante,pop,montaña,aventura,no
+127,hombre,joven,north america,estudiante,rap,montaña,aventura,no
+128,mujer,adulto,oceania,trabajador,pop,montaña,cultura,no
+129,hombre,adulto,asia,trabajador,pop,bar,ocio,no
+130,hombre,adulto,europe,jubilado,heavy metal,montaña,aventura,no
+131,mujer,adulto,europe,jubilado,pop,sofa,aventura,no
+132,hombre,adulto,europe,jubilado,clasica,playa,cultura,no
+133,hombre,adulto,north america,trabajador,pop,montaña,aventura,no
+134,prefiero no decirlo,joven,europe,estudiante,pop,sofa,cultura,no
+135,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no
+136,mujer,adulto,europe,nada,reggeaton,sofa,ocio,no
+137,mujer,adulto,europe,trabajador,clasica,montaña,aventura,no
+138,hombre,adulto,europe,trabajador,heavy metal,montaña,ocio,no
+139,mujer,joven,europe,estudiante,techno,montaña,cultura,no
+140,hombre,adulto,europe,trabajador,techno,playa,aventura,si
+141,mujer,adulto,europe,trabajador,techno,playa,cultura,no
+142,mujer,joven,oceania,estudiante,pop,playa,cultura,no
+143,mujer,niño,oceania,estudiante,pop,sofa,cultura,no
+144,hombre,adulto,asia,nada,clasica,playa,aventura,no
+145,hombre,adulto,europe,nada,heavy metal,montaña,cultura,no
+146,hombre,adulto,europe,jubilado,clasica,playa,cultura,no
+147,mujer,adulto,europe,trabajador,clasica,bar,cultura,si
+148,mujer,adulto,north america,trabajador,pop,bar,aventura,no
+149,hombre,niño,europe,estudiante,reggeaton,playa,aventura,no
+150,hombre,adulto,europe,trabajador,techno,montaña,ocio,si
+151,hombre,adulto,europe,trabajador,techno,sofa,cultura,si
+152,hombre,joven,europe,nada,reggeaton,bar,ocio,no
+153,hombre,adulto,europe,trabajador,heavy metal,playa,cultura,no
+154,mujer,adulto,europe,estudiante,rap,sofa,ocio,no
+155,hombre,adulto,europe,jubilado,clasica,sofa,cultura,si
+156,mujer,adulto,europe,jubilado,clasica,montaña,ocio,si
+157,mujer,adulto,europe,trabajador,pop,playa,cultura,no
+158,mujer,joven,south america,estudiante,pop,bar,aventura,no
+159,mujer,joven,north america,estudiante,pop,sofa,aventura,no
+160,mujer,niño,europe,estudiante,rap,playa,cultura,no
+161,hombre,joven,europe,trabajador,reggeaton,bar,ocio,no
+162,mujer,joven,africa,estudiante,heavy metal,montaña,ocio,no
+163,mujer,adulto,europe,jubilado,pop,playa,aventura,si
+164,mujer,adulto,europe,jubilado,clasica,sofa,ocio,no
+165,mujer,adulto,europe,trabajador,clasica,playa,ocio,no
+166,hombre,joven,south america,estudiante,heavy metal,sofa,ocio,no
+167,mujer,joven,europe,nada,clasica,sofa,aventura,no
+168,hombre,adulto,europe,trabajador,heavy metal,sofa,cultura,no
+169,mujer,adulto,asia,trabajador,clasica,montaña,ocio,no
+170,mujer,adulto,south america,trabajador,pop,montaña,aventura,si
+171,hombre,adulto,south america,trabajador,techno,bar,cultura,no
+172,hombre,adulto,europe,trabajador,rap,bar,cultura,no
+173,hombre,adulto,north america,trabajador,pop,bar,aventura,no
+174,hombre,adulto,europe,trabajador,pop,sofa,ocio,no
+175,prefiero no decirlo,niño,europe,estudiante,reggeaton,sofa,aventura,no
+176,mujer,joven,africa,trabajador,pop,sofa,cultura,no
+177,hombre,joven,north america,trabajador,clasica,playa,ocio,no
+178,hombre,adulto,asia,jubilado,heavy metal,sofa,cultura,no
+179,mujer,adulto,africa,nada,pop,bar,cultura,no
+180,hombre,adulto,asia,trabajador,heavy metal,playa,cultura,si
+181,hombre,joven,europe,estudiante,reggeaton,playa,cultura,no
+182,mujer,adulto,oceania,nada,rap,montaña,aventura,si
+183,mujer,joven,europe,estudiante,techno,sofa,cultura,no
+184,hombre,joven,asia,estudiante,reggeaton,playa,cultura,no
+185,hombre,adulto,europe,trabajador,rap,playa,aventura,no
+186,mujer,adulto,europe,trabajador,rap,sofa,ocio,si
+187,mujer,adulto,europe,trabajador,techno,bar,aventura,si
+188,prefiero no decirlo,niño,europe,estudiante,reggeaton,playa,aventura,no
+189,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no
+190,mujer,niño,north america,estudiante,pop,playa,cultura,no
+191,mujer,adulto,south america,trabajador,pop,bar,cultura,no
+192,hombre,adulto,europe,trabajador,pop,montaña,aventura,no
+193,hombre,adulto,south america,trabajador,heavy metal,montaña,cultura,no
+194,hombre,adulto,south america,trabajador,heavy metal,sofa,aventura,no
+195,hombre,niño,asia,estudiante,rap,sofa,ocio,no
+196,hombre,adulto,north america,nada,techno,playa,aventura,si
+197,mujer,joven,north america,estudiante,reggeaton,sofa,aventura,no
+198,mujer,adulto,europe,trabajador,clasica,sofa,ocio,no
+199,mujer,adulto,asia,trabajador,pop,montaña,ocio,no
+200,mujer,adulto,asia,trabajador,pop,sofa,ocio,no
+201,mujer,adulto,europe,trabajador,clasica,bar,cultura,no
+202,mujer,joven,europe,estudiante,pop,bar,aventura,no
+203,hombre,adulto,europe,nada,techno,playa,cultura,no
+204,mujer,adulto,europe,trabajador,pop,montaña,cultura,no
+205,hombre,adulto,europe,estudiante,clasica,montaña,ocio,no
+206,mujer,joven,north america,estudiante,techno,playa,aventura,no
+207,hombre,joven,africa,estudiante,techno,bar,aventura,no
+208,mujer,adulto,europe,jubilado,clasica,playa,cultura,no
+209,hombre,joven,europe,trabajador,pop,playa,aventura,no
+210,hombre,adulto,europe,trabajador,clasica,sofa,aventura,no
+211,hombre,joven,europe,nada,techno,bar,aventura,no
+212,mujer,adulto,north america,trabajador,techno,playa,cultura,si
+213,hombre,adulto,africa,nada,rap,bar,ocio,no
+214,mujer,adulto,asia,jubilado,clasica,bar,aventura,no
+215,mujer,adulto,europe,trabajador,clasica,sofa,cultura,si
+216,hombre,adulto,south america,trabajador,reggeaton,playa,ocio,si
+217,mujer,joven,europe,trabajador,reggeaton,montaña,ocio,no
+218,hombre,adulto,europe,jubilado,clasica,bar,aventura,no
+219,mujer,joven,europe,estudiante,pop,bar,cultura,no
+220,mujer,joven,europe,estudiante,techno,montaña,cultura,no
+221,hombre,adulto,asia,trabajador,techno,montaña,aventura,no
+222,hombre,joven,north america,estudiante,rap,bar,cultura,no
+223,mujer,adulto,europe,trabajador,techno,playa,cultura,no
+224,prefiero no decirlo,adulto,europe,trabajador,rap,sofa,cultura,no
+225,hombre,niño,europe,estudiante,techno,sofa,ocio,no
+226,prefiero no decirlo,adulto,north america,jubilado,techno,bar,aventura,no
+227,hombre,joven,asia,estudiante,rap,playa,ocio,no
+228,mujer,joven,europe,nada,reggeaton,sofa,ocio,si
+229,mujer,adulto,europe,jubilado,clasica,montaña,ocio,no
+230,mujer,joven,europe,estudiante,pop,playa,ocio,no
+231,hombre,adulto,asia,trabajador,heavy metal,bar,cultura,no
+232,mujer,adulto,europe,trabajador,techno,montaña,ocio,no
+233,hombre,adulto,europe,trabajador,clasica,bar,cultura,si
+234,mujer,adulto,asia,trabajador,heavy metal,montaña,ocio,no
+235,mujer,adulto,asia,jubilado,techno,playa,ocio,no
+236,mujer,niño,south america,estudiante,pop,montaña,aventura,no
+237,hombre,adulto,oceania,jubilado,reggeaton,montaña,ocio,no
+238,mujer,adulto,north america,trabajador,pop,montaña,aventura,no
+239,hombre,joven,europe,estudiante,pop,playa,aventura,no
+240,mujer,adulto,europe,trabajador,pop,bar,ocio,no
+241,hombre,adulto,south america,nada,pop,sofa,cultura,no
+242,mujer,adulto,north america,jubilado,clasica,montaña,ocio,no
+243,mujer,adulto,europe,jubilado,rap,bar,aventura,si
+244,hombre,joven,europe,trabajador,rap,bar,aventura,no
+245,hombre,adulto,europe,estudiante,rap,montaña,aventura,no
+246,hombre,joven,south america,trabajador,heavy metal,sofa,aventura,no
+247,mujer,adulto,europe,jubilado,pop,bar,ocio,no
+248,hombre,adulto,south america,trabajador,rap,bar,cultura,no
+249,mujer,niño,europe,estudiante,clasica,playa,aventura,no
+250,mujer,adulto,south america,jubilado,heavy metal,sofa,aventura,si
+251,hombre,adulto,europe,jubilado,heavy metal,sofa,cultura,no
+252,mujer,adulto,europe,jubilado,pop,playa,cultura,no
+253,hombre,joven,europe,estudiante,heavy metal,sofa,cultura,no
+254,hombre,joven,europe,estudiante,reggeaton,bar,cultura,no
+255,hombre,adulto,europe,trabajador,heavy metal,bar,ocio,si
+256,mujer,adulto,north america,trabajador,clasica,playa,aventura,si
+257,hombre,adulto,europe,trabajador,heavy metal,montaña,ocio,si
+258,mujer,adulto,africa,trabajador,pop,playa,ocio,no
+259,mujer,joven,europe,estudiante,reggeaton,bar,aventura,no
+260,hombre,adulto,europe,trabajador,rap,montaña,ocio,no
+261,hombre,adulto,europe,jubilado,pop,bar,ocio,no
+262,hombre,adulto,europe,trabajador,heavy metal,bar,aventura,no
+263,mujer,adulto,north america,trabajador,heavy metal,playa,aventura,no
+264,hombre,adulto,europe,trabajador,clasica,montaña,cultura,no
+265,prefiero no decirlo,adulto,europe,trabajador,rap,playa,aventura,no
+266,mujer,adulto,asia,trabajador,reggeaton,bar,cultura,no
+267,hombre,adulto,europe,jubilado,clasica,playa,aventura,no
+268,prefiero no decirlo,joven,south america,estudiante,reggeaton,sofa,ocio,no
+269,hombre,joven,europe,estudiante,techno,sofa,aventura,no
+270,prefiero no decirlo,adulto,asia,nada,techno,playa,ocio,no
+271,hombre,adulto,europe,trabajador,rap,playa,cultura,no
+272,hombre,joven,asia,estudiante,pop,sofa,cultura,no
+273,hombre,niño,north america,estudiante,pop,playa,ocio,no
+274,mujer,adulto,north america,nada,reggeaton,montaña,cultura,no
+275,hombre,joven,south america,trabajador,reggeaton,playa,aventura,no
+276,prefiero no decirlo,adulto,europe,trabajador,pop,playa,ocio,no
+277,mujer,adulto,asia,trabajador,rap,montaña,aventura,no
+278,prefiero no decirlo,adulto,asia,trabajador,clasica,montaña,ocio,no
+279,mujer,joven,europe,estudiante,reggeaton,bar,ocio,no
+280,hombre,adulto,europe,jubilado,techno,playa,aventura,si
+281,mujer,joven,asia,nada,reggeaton,sofa,aventura,no
+282,hombre,adulto,asia,nada,techno,playa,aventura,no
+283,hombre,adulto,europe,jubilado,pop,montaña,cultura,no
+284,hombre,adulto,europe,trabajador,clasica,montaña,cultura,si
+285,hombre,adulto,europe,jubilado,reggeaton,sofa,ocio,no
+286,hombre,adulto,south america,jubilado,clasica,playa,cultura,si
+287,mujer,adulto,europe,trabajador,clasica,bar,ocio,no
+288,hombre,adulto,asia,trabajador,heavy metal,playa,ocio,si
+289,mujer,adulto,asia,trabajador,clasica,playa,cultura,si
+290,mujer,adulto,asia,nada,pop,playa,ocio,no
+291,hombre,adulto,europe,trabajador,rap,sofa,aventura,si
+292,mujer,joven,oceania,estudiante,reggeaton,montaña,cultura,no
+293,hombre,adulto,africa,trabajador,heavy metal,playa,ocio,no
+294,hombre,joven,asia,estudiante,techno,sofa,ocio,no
+295,prefiero no decirlo,adulto,europe,trabajador,reggeaton,playa,aventura,no
+296,mujer,adulto,europe,trabajador,clasica,montaña,ocio,no
+297,mujer,adulto,europe,trabajador,clasica,bar,ocio,no
+298,hombre,adulto,europe,trabajador,heavy metal,bar,cultura,no
+299,mujer,adulto,europe,jubilado,clasica,sofa,cultura,no
+300,hombre,adulto,south america,trabajador,heavy metal,montaña,aventura,no
+301,hombre,adulto,africa,trabajador,clasica,playa,ocio,no
+302,hombre,adulto,europe,jubilado,clasica,sofa,cultura,si
+303,hombre,niño,europe,estudiante,rap,sofa,ocio,no
+304,hombre,adulto,south america,jubilado,heavy metal,montaña,ocio,no
+305,mujer,adulto,asia,jubilado,pop,sofa,ocio,no
+306,mujer,joven,europe,trabajador,rap,montaña,ocio,no
+307,hombre,adulto,asia,nada,pop,bar,aventura,no
+308,hombre,adulto,europe,trabajador,pop,sofa,cultura,no
+309,hombre,adulto,asia,trabajador,pop,sofa,aventura,no
+310,hombre,adulto,europe,trabajador,heavy metal,playa,cultura,si
+311,hombre,adulto,south america,trabajador,heavy metal,bar,ocio,no
+312,hombre,niño,asia,estudiante,rap,montaña,ocio,no
+313,hombre,adulto,south america,trabajador,clasica,montaña,aventura,no
+314,mujer,niño,europe,estudiante,rap,playa,aventura,no
+315,mujer,joven,south america,trabajador,pop,playa,ocio,no
+316,mujer,joven,europe,trabajador,pop,montaña,cultura,no
+317,mujer,joven,europe,estudiante,pop,montaña,aventura,no
+318,hombre,adulto,europe,trabajador,pop,montaña,ocio,no
+319,mujer,adulto,asia,jubilado,pop,bar,ocio,no
+320,mujer,joven,europe,estudiante,pop,bar,cultura,no
+321,mujer,adulto,europe,trabajador,pop,bar,cultura,no
+322,hombre,adulto,europe,trabajador,techno,bar,cultura,no
+323,hombre,adulto,north america,jubilado,clasica,bar,cultura,no
+324,hombre,adulto,north america,trabajador,techno,playa,ocio,no
+325,hombre,adulto,north america,trabajador,reggeaton,playa,aventura,no
+326,hombre,joven,europe,estudiante,clasica,bar,cultura,no
+327,hombre,joven,europe,estudiante,rap,montaña,cultura,no
+328,mujer,adulto,europe,trabajador,pop,playa,cultura,no
+329,mujer,adulto,south america,trabajador,clasica,playa,cultura,no
+330,hombre,joven,europe,trabajador,pop,montaña,cultura,no
+331,mujer,adulto,oceania,trabajador,techno,sofa,ocio,no
+332,mujer,niño,asia,estudiante,reggeaton,sofa,aventura,no
+333,prefiero no decirlo,niño,south america,estudiante,pop,playa,aventura,no
+334,hombre,adulto,africa,jubilado,reggeaton,sofa,cultura,no
+335,prefiero no decirlo,adulto,asia,trabajador,rap,bar,ocio,no
+336,mujer,adulto,south america,trabajador,techno,bar,ocio,no
+337,prefiero no decirlo,adulto,south america,trabajador,pop,bar,cultura,no
+338,mujer,adulto,europe,jubilado,heavy metal,sofa,cultura,no
+339,hombre,joven,europe,estudiante,pop,montaña,aventura,no
+340,mujer,adulto,europe,trabajador,reggeaton,sofa,aventura,no
+341,mujer,niño,europe,estudiante,pop,playa,ocio,no
+342,prefiero no decirlo,joven,oceania,trabajador,techno,playa,ocio,no
+343,mujer,joven,oceania,estudiante,reggeaton,montaña,aventura,no
+344,prefiero no decirlo,adulto,north america,nada,rap,bar,ocio,no
+345,hombre,adulto,oceania,trabajador,rap,montaña,aventura,no
+346,mujer,joven,north america,estudiante,reggeaton,bar,aventura,no
+347,mujer,niño,europe,estudiante,rap,sofa,aventura,no
+348,mujer,adulto,oceania,trabajador,pop,bar,ocio,no
+349,mujer,adulto,asia,trabajador,clasica,bar,aventura,no
+350,hombre,joven,europe,estudiante,reggeaton,sofa,ocio,no
+351,hombre,adulto,south america,nada,heavy metal,playa,cultura,si
+352,mujer,adulto,europe,trabajador,techno,montaña,ocio,no
+353,mujer,adulto,asia,nada,pop,bar,aventura,si
+354,mujer,joven,oceania,estudiante,pop,playa,cultura,no
+355,mujer,niño,europe,estudiante,techno,playa,ocio,no
+356,mujer,adulto,europe,trabajador,pop,bar,aventura,si
+357,hombre,niño,europe,estudiante,reggeaton,sofa,ocio,no
+358,hombre,adulto,south america,nada,clasica,sofa,cultura,no
+359,mujer,adulto,europe,jubilado,pop,montaña,cultura,si
+360,prefiero no decirlo,joven,asia,estudiante,reggeaton,bar,aventura,no
+361,mujer,adulto,europe,nada,clasica,montaña,cultura,si
+362,hombre,adulto,north america,jubilado,heavy metal,sofa,cultura,no
+363,hombre,joven,asia,trabajador,reggeaton,bar,aventura,no
+364,hombre,adulto,europe,nada,pop,sofa,ocio,si
+365,hombre,adulto,europe,trabajador,heavy metal,bar,aventura,no
+366,hombre,adulto,asia,estudiante,pop,bar,aventura,no
+367,hombre,adulto,europe,trabajador,pop,playa,cultura,si
+368,hombre,joven,europe,estudiante,heavy metal,playa,cultura,si
+369,prefiero no decirlo,niño,europe,estudiante,rap,playa,cultura,no
+370,prefiero no decirlo,niño,south america,estudiante,techno,playa,cultura,no
+371,hombre,joven,europe,estudiante,techno,playa,aventura,no
+372,hombre,niño,asia,estudiante,techno,montaña,aventura,no
+373,mujer,adulto,europe,estudiante,techno,bar,ocio,no
+374,mujer,adulto,europe,jubilado,clasica,playa,cultura,no
+375,hombre,adulto,north america,jubilado,pop,bar,aventura,no
+376,prefiero no decirlo,joven,asia,estudiante,pop,bar,ocio,no
+377,prefiero no decirlo,joven,south america,trabajador,rap,bar,cultura,no
+378,hombre,adulto,africa,jubilado,techno,montaña,cultura,no
+379,prefiero no decirlo,adulto,europe,trabajador,rap,montaña,ocio,no
+380,mujer,joven,south america,estudiante,pop,playa,ocio,no
+381,mujer,adulto,south america,trabajador,pop,sofa,cultura,no
+382,hombre,joven,europe,estudiante,reggeaton,sofa,cultura,no
+383,hombre,niño,europe,estudiante,techno,sofa,cultura,no
+384,mujer,joven,europe,estudiante,clasica,bar,ocio,no
+385,hombre,adulto,south america,trabajador,techno,bar,ocio,no
+386,mujer,adulto,europe,trabajador,pop,montaña,ocio,no
+387,hombre,adulto,asia,trabajador,clasica,playa,aventura,si
+388,mujer,adulto,europe,jubilado,clasica,bar,aventura,no
+389,mujer,joven,europe,estudiante,pop,bar,ocio,no
+390,hombre,joven,south america,estudiante,heavy metal,bar,aventura,no
+391,mujer,adulto,europe,trabajador,heavy metal,bar,aventura,no
+392,mujer,adulto,europe,trabajador,clasica,montaña,cultura,no
+393,mujer,adulto,asia,nada,clasica,playa,ocio,no
+394,mujer,adulto,europe,trabajador,pop,bar,cultura,no
+395,prefiero no decirlo,adulto,asia,jubilado,techno,playa,ocio,no
+396,mujer,adulto,asia,jubilado,pop,montaña,ocio,no
+397,hombre,adulto,europe,trabajador,clasica,montaña,cultura,no
+398,mujer,adulto,europe,trabajador,pop,playa,ocio,no
+399,hombre,adulto,asia,trabajador,clasica,montaña,aventura,no
+400,hombre,joven,north america,estudiante,heavy metal,playa,ocio,no
+401,hombre,adulto,europe,jubilado,heavy metal,montaña,aventura,no
+402,mujer,adulto,europe,trabajador,pop,sofa,ocio,si
+403,mujer,adulto,europe,trabajador,techno,playa,cultura,no
+404,mujer,joven,europe,estudiante,pop,bar,cultura,no
+405,mujer,adulto,europe,nada,heavy metal,sofa,aventura,no
+406,hombre,niño,europe,estudiante,pop,playa,aventura,no
+407,mujer,adulto,europe,estudiante,rap,playa,ocio,no
+408,mujer,joven,europe,estudiante,reggeaton,montaña,cultura,no
+409,hombre,niño,europe,estudiante,rap,montaña,aventura,no
+410,hombre,joven,europe,trabajador,rap,montaña,cultura,no
+411,mujer,adulto,asia,trabajador,reggeaton,sofa,cultura,no
+412,mujer,adulto,europe,trabajador,clasica,montaña,aventura,no
+413,mujer,adulto,asia,jubilado,clasica,montaña,aventura,no
+414,mujer,niño,north america,estudiante,techno,playa,aventura,no
+415,hombre,adulto,europe,trabajador,techno,bar,cultura,no
+416,mujer,adulto,asia,trabajador,reggeaton,montaña,aventura,no
+417,mujer,adulto,africa,trabajador,pop,playa,aventura,no
+418,hombre,adulto,north america,trabajador,pop,bar,ocio,no
+419,hombre,adulto,europe,trabajador,heavy metal,sofa,cultura,no
+420,hombre,adulto,europe,trabajador,pop,montaña,cultura,no
+421,hombre,joven,south america,estudiante,rap,playa,aventura,no
+422,hombre,adulto,north america,jubilado,heavy metal,bar,cultura,no
+423,mujer,joven,europe,estudiante,pop,montaña,aventura,no
+424,mujer,joven,europe,trabajador,pop,bar,aventura,no
+425,hombre,adulto,europe,trabajador,pop,bar,cultura,no
+426,hombre,adulto,asia,trabajador,heavy metal,sofa,cultura,si
+427,hombre,adulto,europe,trabajador,reggeaton,sofa,ocio,no
+428,mujer,adulto,europe,trabajador,clasica,bar,ocio,no
+429,mujer,joven,europe,trabajador,techno,playa,cultura,no
+430,mujer,adulto,south america,trabajador,clasica,montaña,aventura,no
+431,mujer,adulto,europe,trabajador,pop,montaña,cultura,no
+432,mujer,adulto,north america,trabajador,clasica,sofa,cultura,no
+433,hombre,adulto,africa,trabajador,heavy metal,playa,ocio,no
+434,hombre,niño,asia,estudiante,rap,sofa,cultura,no
+435,prefiero no decirlo,adulto,europe,trabajador,pop,montaña,cultura,no
+436,hombre,adulto,europe,estudiante,clasica,sofa,ocio,no
+437,hombre,joven,europe,estudiante,reggeaton,montaña,cultura,no
+438,hombre,adulto,europe,nada,clasica,playa,ocio,si
+439,prefiero no decirlo,joven,north america,estudiante,reggeaton,bar,cultura,no
+440,mujer,adulto,europe,trabajador,pop,sofa,cultura,si
+441,hombre,adulto,europe,trabajador,heavy metal,playa,aventura,si
+442,hombre,niño,south america,estudiante,heavy metal,playa,aventura,no
+443,hombre,adulto,europe,trabajador,clasica,montaña,ocio,no
+444,hombre,adulto,south america,estudiante,pop,playa,aventura,no
+445,hombre,niño,africa,estudiante,rap,sofa,ocio,no
+446,mujer,niño,europe,estudiante,reggeaton,playa,aventura,no
+447,mujer,niño,europe,estudiante,techno,playa,cultura,no
+448,prefiero no decirlo,adulto,europe,trabajador,rap,bar,ocio,no
+449,mujer,adulto,europe,estudiante,techno,playa,cultura,no
+450,mujer,adulto,europe,trabajador,techno,playa,ocio,no
+451,hombre,joven,europe,estudiante,reggeaton,montaña,aventura,no
+452,hombre,joven,asia,estudiante,heavy metal,sofa,aventura,no
+453,mujer,adulto,europe,trabajador,rap,montaña,aventura,no
+454,mujer,adulto,europe,nada,clasica,montaña,ocio,si
+455,mujer,adulto,south america,nada,pop,montaña,cultura,si
+456,hombre,adulto,europe,trabajador,clasica,playa,aventura,no
+457,mujer,adulto,europe,estudiante,pop,sofa,ocio,no
+458,mujer,adulto,south america,estudiante,techno,bar,cultura,no
+459,hombre,adulto,asia,trabajador,techno,sofa,ocio,no
+460,mujer,niño,asia,estudiante,pop,montaña,cultura,no
+461,mujer,joven,europe,estudiante,rap,sofa,ocio,no
+462,hombre,adulto,asia,jubilado,rap,montaña,ocio,no
+463,hombre,joven,oceania,estudiante,reggeaton,montaña,ocio,no
+464,mujer,joven,europe,estudiante,reggeaton,montaña,aventura,no
+465,prefiero no decirlo,adulto,asia,trabajador,reggeaton,montaña,ocio,no
+466,hombre,adulto,south america,jubilado,heavy metal,bar,aventura,no
+467,hombre,adulto,europe,trabajador,clasica,bar,aventura,no
+468,mujer,joven,asia,estudiante,pop,montaña,cultura,no
+469,hombre,adulto,north america,nada,heavy metal,sofa,ocio,no
+470,hombre,adulto,asia,trabajador,pop,sofa,cultura,si
+471,hombre,adulto,europe,trabajador,clasica,playa,aventura,no
+472,hombre,adulto,europe,trabajador,heavy metal,montaña,aventura,no
+473,hombre,adulto,north america,trabajador,rap,sofa,ocio,no
+474,hombre,joven,africa,nada,techno,playa,cultura,no
+475,hombre,joven,asia,nada,reggeaton,playa,cultura,no
+476,mujer,niño,europe,estudiante,pop,montaña,aventura,no
+477,mujer,joven,europe,estudiante,pop,sofa,aventura,no
+478,mujer,joven,north america,nada,pop,montaña,aventura,no
+479,hombre,adulto,oceania,trabajador,heavy metal,montaña,cultura,si
+480,mujer,niño,europe,estudiante,reggeaton,sofa,cultura,no
+481,mujer,niño,africa,estudiante,reggeaton,playa,ocio,no
+482,mujer,joven,europe,nada,techno,montaña,ocio,no
+483,prefiero no decirlo,adulto,europe,jubilado,reggeaton,bar,aventura,no
+484,hombre,adulto,europe,trabajador,pop,bar,aventura,no
+485,hombre,joven,south america,trabajador,rap,playa,ocio,no
+486,mujer,adulto,europe,trabajador,clasica,bar,cultura,no
+487,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no
+488,mujer,adulto,asia,trabajador,reggeaton,montaña,aventura,no
+489,prefiero no decirlo,adulto,europe,trabajador,techno,montaña,ocio,no
+490,prefiero no decirlo,adulto,europe,trabajador,heavy metal,bar,cultura,no
+491,mujer,adulto,north america,trabajador,techno,playa,aventura,no
+492,mujer,joven,asia,estudiante,reggeaton,montaña,cultura,no
+493,hombre,adulto,north america,trabajador,clasica,bar,ocio,si
+494,mujer,niño,north america,estudiante,rap,playa,aventura,no
+495,hombre,adulto,north america,trabajador,pop,montaña,ocio,no
+496,hombre,adulto,asia,trabajador,techno,montaña,aventura,si
+497,hombre,joven,europe,estudiante,techno,montaña,cultura,no
+498,mujer,adulto,asia,trabajador,clasica,playa,cultura,si
+499,mujer,joven,asia,estudiante,techno,playa,ocio,no
+500,mujer,joven,europe,estudiante,pop,montaña,cultura,no

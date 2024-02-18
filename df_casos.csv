@@ -1,0 +1,502 @@
+usuario,genero,edad,region,trabajo,musica,tarde_libre,vacaciones,mobilidad_reducida,ruta,longitud_ruta,sector,valoracion
+0,mujer,adulto,north america,trabajador,clasica,sofa,aventura,no,8,2900,"[bienestar, gastronomia, natura]",4
+1,mujer,adulto,europe,jubilado,reggeaton,playa,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",5
+2,hombre,joven,europe,nada,clasica,montaña,cultura,no,9,2100,"[oci, gastronomia]",5
+3,prefiero no decirlo,adulto,asia,estudiante,pop,sofa,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",2
+4,mujer,adulto,europe,trabajador,pop,playa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+5,hombre,adulto,europe,estudiante,pop,sofa,aventura,no,12,2100,"[cultura, educacion]",1
+6,hombre,joven,europe,estudiante,pop,playa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",2
+7,mujer,adulto,europe,trabajador,reggeaton,sofa,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",2
+8,mujer,adulto,africa,estudiante,clasica,bar,cultura,no,4,3400,"[natura, gastronomia, bienestar]",2
+9,hombre,adulto,oceania,trabajador,clasica,montaña,ocio,no,9,2100,"[oci, gastronomia]",1
+10,mujer,adulto,europe,trabajador,reggeaton,playa,aventura,si,0,5920,"[cultura, gastronomia, natura, oci]",3
+11,mujer,niño,europe,estudiante,techno,playa,ocio,no,10,3400,"[natura, gastronomia, comercio local]",5
+12,mujer,joven,asia,estudiante,heavy metal,sofa,cultura,no,1,4100,"[cultura, gastronomia]",2
+13,prefiero no decirlo,adulto,africa,trabajador,reggeaton,sofa,cultura,no,6,3300,"[deporte, gastronomia]",4
+14,hombre,niño,europe,estudiante,reggeaton,playa,ocio,no,1,4100,"[cultura, gastronomia]",5
+15,hombre,adulto,africa,trabajador,heavy metal,montaña,ocio,si,6,3300,"[deporte, gastronomia]",3
+16,hombre,adulto,north america,estudiante,pop,bar,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+17,hombre,joven,europe,estudiante,rap,sofa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",4
+18,mujer,niño,europe,estudiante,reggeaton,playa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",5
+19,hombre,adulto,europe,trabajador,pop,bar,ocio,no,12,2100,"[cultura, educacion]",1
+20,hombre,joven,north america,estudiante,reggeaton,montaña,ocio,no,6,3300,"[deporte, gastronomia]",5
+21,hombre,joven,europe,estudiante,reggeaton,sofa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+22,hombre,joven,oceania,estudiante,pop,bar,aventura,no,3,8200,"[natura, gastronomia, bienestar]",2
+23,hombre,adulto,asia,jubilado,reggeaton,sofa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",5
+24,mujer,adulto,africa,trabajador,clasica,bar,cultura,no,1,4100,"[cultura, gastronomia]",1
+25,hombre,adulto,europe,jubilado,techno,montaña,aventura,no,8,2900,"[bienestar, gastronomia, natura]",5
+26,hombre,adulto,south america,jubilado,clasica,playa,ocio,no,1,4100,"[cultura, gastronomia]",1
+27,hombre,joven,europe,estudiante,reggeaton,playa,ocio,no,1,4100,"[cultura, gastronomia]",3
+28,mujer,niño,europe,estudiante,rap,sofa,cultura,no,12,2100,"[cultura, educacion]",3
+29,mujer,adulto,north america,trabajador,techno,montaña,aventura,si,8,2900,"[bienestar, gastronomia, natura]",4
+30,mujer,adulto,europe,trabajador,reggeaton,playa,cultura,si,4,3400,"[natura, gastronomia, bienestar]",3
+31,hombre,joven,europe,trabajador,reggeaton,sofa,aventura,no,4,3400,"[natura, gastronomia, bienestar]",2
+32,mujer,joven,europe,trabajador,pop,montaña,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",1
+33,hombre,joven,europe,estudiante,reggeaton,playa,aventura,no,8,2900,"[bienestar, gastronomia, natura]",4
+34,mujer,adulto,europe,trabajador,techno,playa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+35,prefiero no decirlo,niño,oceania,estudiante,techno,playa,aventura,no,9,2100,"[oci, gastronomia]",1
+36,mujer,adulto,europe,trabajador,pop,bar,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",3
+37,mujer,joven,south america,nada,techno,playa,ocio,si,4,3400,"[natura, gastronomia, bienestar]",2
+38,mujer,joven,europe,trabajador,pop,playa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",3
+39,mujer,joven,asia,nada,techno,montaña,ocio,no,9,2100,"[oci, gastronomia]",3
+40,prefiero no decirlo,adulto,europe,trabajador,reggeaton,playa,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+41,hombre,adulto,africa,nada,clasica,bar,cultura,no,6,3300,"[deporte, gastronomia]",2
+42,prefiero no decirlo,joven,africa,estudiante,heavy metal,bar,cultura,no,12,2100,"[cultura, educacion]",5
+43,mujer,adulto,south america,trabajador,reggeaton,playa,cultura,no,9,2100,"[oci, gastronomia]",4
+44,mujer,adulto,oceania,jubilado,clasica,sofa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",3
+45,mujer,adulto,north america,jubilado,clasica,sofa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+46,hombre,adulto,north america,trabajador,techno,sofa,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+47,hombre,joven,asia,trabajador,techno,sofa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",5
+48,mujer,adulto,europe,trabajador,techno,playa,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",2
+49,hombre,adulto,asia,trabajador,techno,sofa,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",5
+50,mujer,adulto,north america,trabajador,clasica,bar,cultura,no,11,5000,"[deporte, gastronomia, oci]",1
+51,hombre,adulto,north america,trabajador,pop,playa,ocio,no,15,500,"[cultura, gastronomia]",3
+52,prefiero no decirlo,adulto,europe,trabajador,pop,playa,aventura,si,9,2100,"[oci, gastronomia]",5
+53,hombre,adulto,europe,nada,clasica,sofa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",3
+54,prefiero no decirlo,adulto,oceania,jubilado,heavy metal,sofa,aventura,no,1,4100,"[cultura, gastronomia]",4
+55,hombre,adulto,europe,trabajador,reggeaton,bar,ocio,no,14,5700,"[cultura, gastronomia, comercio local]",5
+56,hombre,niño,africa,estudiante,pop,montaña,ocio,no,11,5000,"[deporte, gastronomia, oci]",3
+57,hombre,adulto,asia,jubilado,rap,sofa,aventura,no,13,6000,"[cultura, gastronomia, comercio local]",1
+58,hombre,joven,north america,trabajador,clasica,sofa,aventura,no,13,6000,"[cultura, gastronomia, comercio local]",5
+59,hombre,adulto,south america,jubilado,pop,bar,cultura,si,11,5000,"[deporte, gastronomia, oci]",5
+60,mujer,adulto,europe,trabajador,clasica,playa,ocio,si,6,3300,"[deporte, gastronomia]",1
+61,hombre,adulto,north america,trabajador,heavy metal,playa,cultura,si,4,3400,"[natura, gastronomia, bienestar]",5
+62,hombre,adulto,south america,trabajador,heavy metal,montaña,ocio,si,15,500,"[cultura, gastronomia]",4
+63,mujer,joven,south america,trabajador,techno,bar,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+64,mujer,niño,europe,estudiante,clasica,playa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",4
+65,mujer,adulto,south america,nada,clasica,bar,aventura,no,9,2100,"[oci, gastronomia]",4
+66,mujer,adulto,south america,trabajador,pop,sofa,cultura,no,11,5000,"[deporte, gastronomia, oci]",3
+67,hombre,adulto,oceania,trabajador,clasica,playa,aventura,no,13,6000,"[cultura, gastronomia, comercio local]",2
+68,mujer,adulto,asia,jubilado,techno,sofa,aventura,no,13,6000,"[cultura, gastronomia, comercio local]",2
+69,mujer,adulto,asia,nada,clasica,playa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",5
+70,hombre,joven,north america,estudiante,heavy metal,playa,cultura,si,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+71,mujer,adulto,europe,nada,clasica,playa,ocio,no,15,500,"[cultura, gastronomia]",1
+72,hombre,joven,asia,trabajador,techno,sofa,cultura,no,1,4100,"[cultura, gastronomia]",3
+73,prefiero no decirlo,adulto,europe,trabajador,rap,playa,ocio,no,15,500,"[cultura, gastronomia]",5
+74,mujer,adulto,africa,trabajador,pop,sofa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+75,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no,4,3400,"[natura, gastronomia, bienestar]",2
+76,prefiero no decirlo,adulto,south america,estudiante,reggeaton,sofa,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",4
+77,hombre,adulto,europe,trabajador,techno,montaña,ocio,no,6,3300,"[deporte, gastronomia]",2
+78,mujer,adulto,europe,trabajador,clasica,montaña,ocio,si,2,5200,"[oci, gastronomia, natura, comercio local]",1
+79,hombre,adulto,europe,jubilado,reggeaton,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",5
+80,hombre,joven,asia,estudiante,rap,bar,ocio,no,4,3400,"[natura, gastronomia, bienestar]",3
+81,mujer,joven,africa,estudiante,heavy metal,montaña,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+82,mujer,adulto,europe,jubilado,pop,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",3
+83,mujer,adulto,north america,trabajador,rap,bar,aventura,no,7,2600,"[educacion, gastronomia]",4
+84,mujer,adulto,asia,jubilado,pop,sofa,ocio,no,6,3300,"[deporte, gastronomia]",4
+85,mujer,adulto,oceania,trabajador,heavy metal,bar,aventura,si,11,5000,"[deporte, gastronomia, oci]",4
+86,hombre,adulto,europe,estudiante,heavy metal,sofa,aventura,no,10,3400,"[natura, gastronomia, comercio local]",5
+87,mujer,adulto,oceania,jubilado,heavy metal,montaña,aventura,no,15,500,"[cultura, gastronomia]",5
+88,mujer,joven,europe,estudiante,pop,bar,ocio,no,6,3300,"[deporte, gastronomia]",5
+89,hombre,niño,oceania,estudiante,techno,montaña,aventura,no,15,500,"[cultura, gastronomia]",3
+90,mujer,adulto,europe,jubilado,clasica,montaña,cultura,si,14,5700,"[cultura, gastronomia, comercio local]",1
+91,hombre,adulto,europe,trabajador,techno,montaña,ocio,si,15,500,"[cultura, gastronomia]",5
+92,hombre,adulto,south america,trabajador,pop,bar,cultura,si,7,2600,"[educacion, gastronomia]",3
+93,mujer,adulto,north america,trabajador,clasica,playa,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",3
+94,hombre,adulto,europe,trabajador,clasica,playa,aventura,no,8,2900,"[bienestar, gastronomia, natura]",5
+95,mujer,niño,europe,estudiante,techno,montaña,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",3
+96,hombre,adulto,asia,nada,heavy metal,bar,cultura,no,5,3900,"[comercio local, gastronomia]",5
+97,mujer,joven,europe,estudiante,reggeaton,playa,aventura,si,2,5200,"[oci, gastronomia, natura, comercio local]",3
+98,hombre,adulto,africa,jubilado,heavy metal,playa,ocio,no,8,2900,"[bienestar, gastronomia, natura]",1
+99,mujer,adulto,europe,estudiante,clasica,playa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+100,hombre,adulto,europe,trabajador,clasica,montaña,ocio,no,11,5000,"[deporte, gastronomia, oci]",1
+101,mujer,adulto,asia,trabajador,clasica,montaña,ocio,si,15,500,"[cultura, gastronomia]",1
+102,hombre,joven,north america,estudiante,techno,sofa,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+103,hombre,joven,europe,estudiante,techno,bar,aventura,no,6,3300,"[deporte, gastronomia]",4
+104,mujer,adulto,asia,jubilado,pop,playa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",4
+105,mujer,joven,asia,trabajador,reggeaton,bar,cultura,no,8,2900,"[bienestar, gastronomia, natura]",1
+106,hombre,adulto,africa,trabajador,clasica,montaña,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+107,mujer,joven,europe,nada,reggeaton,bar,ocio,no,9,2100,"[oci, gastronomia]",5
+108,mujer,adulto,asia,trabajador,clasica,playa,ocio,no,11,5000,"[deporte, gastronomia, oci]",4
+109,mujer,joven,europe,estudiante,reggeaton,playa,ocio,no,15,500,"[cultura, gastronomia]",4
+110,mujer,adulto,europe,trabajador,heavy metal,sofa,ocio,no,8,2900,"[bienestar, gastronomia, natura]",4
+111,hombre,adulto,europe,jubilado,techno,bar,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+112,hombre,adulto,europe,estudiante,clasica,montaña,ocio,no,12,2100,"[cultura, educacion]",5
+113,hombre,joven,europe,estudiante,heavy metal,sofa,ocio,no,9,2100,"[oci, gastronomia]",3
+114,hombre,niño,europe,estudiante,heavy metal,sofa,ocio,no,15,500,"[cultura, gastronomia]",2
+115,hombre,adulto,europe,trabajador,heavy metal,sofa,ocio,no,11,5000,"[deporte, gastronomia, oci]",1
+116,mujer,joven,north america,estudiante,pop,playa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+117,hombre,adulto,asia,trabajador,heavy metal,playa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",2
+118,mujer,adulto,europe,trabajador,clasica,bar,ocio,no,11,5000,"[deporte, gastronomia, oci]",5
+119,mujer,adulto,europe,jubilado,pop,playa,aventura,no,7,2600,"[educacion, gastronomia]",5
+120,mujer,niño,europe,estudiante,reggeaton,playa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+121,hombre,adulto,europe,jubilado,rap,montaña,cultura,no,8,2900,"[bienestar, gastronomia, natura]",5
+122,mujer,adulto,europe,trabajador,clasica,sofa,aventura,si,14,5700,"[cultura, gastronomia, comercio local]",2
+123,mujer,adulto,south america,nada,clasica,bar,ocio,no,1,4100,"[cultura, gastronomia]",2
+124,hombre,adulto,africa,trabajador,reggeaton,playa,cultura,no,10,3400,"[natura, gastronomia, comercio local]",4
+125,mujer,adulto,europe,jubilado,pop,sofa,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",4
+126,prefiero no decirlo,joven,europe,estudiante,pop,montaña,aventura,no,8,2900,"[bienestar, gastronomia, natura]",5
+127,hombre,joven,north america,estudiante,rap,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",2
+128,mujer,adulto,oceania,trabajador,pop,montaña,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+129,hombre,adulto,asia,trabajador,pop,bar,ocio,no,4,3400,"[natura, gastronomia, bienestar]",2
+130,hombre,adulto,europe,jubilado,heavy metal,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",1
+131,mujer,adulto,europe,jubilado,pop,sofa,aventura,no,6,3300,"[deporte, gastronomia]",1
+132,hombre,adulto,europe,jubilado,clasica,playa,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",5
+133,hombre,adulto,north america,trabajador,pop,montaña,aventura,no,12,2100,"[cultura, educacion]",3
+134,prefiero no decirlo,joven,europe,estudiante,pop,sofa,cultura,no,1,4100,"[cultura, gastronomia]",5
+135,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no,4,3400,"[natura, gastronomia, bienestar]",5
+136,mujer,adulto,europe,nada,reggeaton,sofa,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",5
+137,mujer,adulto,europe,trabajador,clasica,montaña,aventura,no,9,2100,"[oci, gastronomia]",5
+138,hombre,adulto,europe,trabajador,heavy metal,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",1
+139,mujer,joven,europe,estudiante,techno,montaña,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",3
+140,hombre,adulto,europe,trabajador,techno,playa,aventura,si,8,2900,"[bienestar, gastronomia, natura]",5
+141,mujer,adulto,europe,trabajador,techno,playa,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+142,mujer,joven,oceania,estudiante,pop,playa,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+143,mujer,niño,oceania,estudiante,pop,sofa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",4
+144,hombre,adulto,asia,nada,clasica,playa,aventura,no,7,2600,"[educacion, gastronomia]",1
+145,hombre,adulto,europe,nada,heavy metal,montaña,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+146,hombre,adulto,europe,jubilado,clasica,playa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",2
+147,mujer,adulto,europe,trabajador,clasica,bar,cultura,si,3,8200,"[natura, gastronomia, bienestar]",3
+148,mujer,adulto,north america,trabajador,pop,bar,aventura,no,7,2600,"[educacion, gastronomia]",2
+149,hombre,niño,europe,estudiante,reggeaton,playa,aventura,no,5,3900,"[comercio local, gastronomia]",4
+150,hombre,adulto,europe,trabajador,techno,montaña,ocio,si,9,2100,"[oci, gastronomia]",3
+151,hombre,adulto,europe,trabajador,techno,sofa,cultura,si,3,8200,"[natura, gastronomia, bienestar]",1
+152,hombre,joven,europe,nada,reggeaton,bar,ocio,no,12,2100,"[cultura, educacion]",5
+153,hombre,adulto,europe,trabajador,heavy metal,playa,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",5
+154,mujer,adulto,europe,estudiante,rap,sofa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",4
+155,hombre,adulto,europe,jubilado,clasica,sofa,cultura,si,0,5920,"[cultura, gastronomia, natura, oci]",1
+156,mujer,adulto,europe,jubilado,clasica,montaña,ocio,si,7,2600,"[educacion, gastronomia]",5
+157,mujer,adulto,europe,trabajador,pop,playa,cultura,no,15,500,"[cultura, gastronomia]",5
+158,mujer,joven,south america,estudiante,pop,bar,aventura,no,15,500,"[cultura, gastronomia]",1
+159,mujer,joven,north america,estudiante,pop,sofa,aventura,no,7,2600,"[educacion, gastronomia]",5
+160,mujer,niño,europe,estudiante,rap,playa,cultura,no,5,3900,"[comercio local, gastronomia]",4
+161,hombre,joven,europe,trabajador,reggeaton,bar,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",3
+162,mujer,joven,africa,estudiante,heavy metal,montaña,ocio,no,12,2100,"[cultura, educacion]",1
+163,mujer,adulto,europe,jubilado,pop,playa,aventura,si,15,500,"[cultura, gastronomia]",3
+164,mujer,adulto,europe,jubilado,clasica,sofa,ocio,no,14,5700,"[cultura, gastronomia, comercio local]",3
+165,mujer,adulto,europe,trabajador,clasica,playa,ocio,no,9,2100,"[oci, gastronomia]",5
+166,hombre,joven,south america,estudiante,heavy metal,sofa,ocio,no,11,5000,"[deporte, gastronomia, oci]",4
+167,mujer,joven,europe,nada,clasica,sofa,aventura,no,6,3300,"[deporte, gastronomia]",3
+168,hombre,adulto,europe,trabajador,heavy metal,sofa,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+169,mujer,adulto,asia,trabajador,clasica,montaña,ocio,no,5,3900,"[comercio local, gastronomia]",4
+170,mujer,adulto,south america,trabajador,pop,montaña,aventura,si,1,4100,"[cultura, gastronomia]",5
+171,hombre,adulto,south america,trabajador,techno,bar,cultura,no,12,2100,"[cultura, educacion]",2
+172,hombre,adulto,europe,trabajador,rap,bar,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",4
+173,hombre,adulto,north america,trabajador,pop,bar,aventura,no,9,2100,"[oci, gastronomia]",3
+174,hombre,adulto,europe,trabajador,pop,sofa,ocio,no,15,500,"[cultura, gastronomia]",2
+175,prefiero no decirlo,niño,europe,estudiante,reggeaton,sofa,aventura,no,15,500,"[cultura, gastronomia]",4
+176,mujer,joven,africa,trabajador,pop,sofa,cultura,no,6,3300,"[deporte, gastronomia]",4
+177,hombre,joven,north america,trabajador,clasica,playa,ocio,no,8,2900,"[bienestar, gastronomia, natura]",1
+178,hombre,adulto,asia,jubilado,heavy metal,sofa,cultura,no,4,3400,"[natura, gastronomia, bienestar]",2
+179,mujer,adulto,africa,nada,pop,bar,cultura,no,15,500,"[cultura, gastronomia]",2
+180,hombre,adulto,asia,trabajador,heavy metal,playa,cultura,si,9,2100,"[oci, gastronomia]",4
+181,hombre,joven,europe,estudiante,reggeaton,playa,cultura,no,1,4100,"[cultura, gastronomia]",4
+182,mujer,adulto,oceania,nada,rap,montaña,aventura,si,10,3400,"[natura, gastronomia, comercio local]",3
+183,mujer,joven,europe,estudiante,techno,sofa,cultura,no,1,4100,"[cultura, gastronomia]",4
+184,hombre,joven,asia,estudiante,reggeaton,playa,cultura,no,15,500,"[cultura, gastronomia]",5
+185,hombre,adulto,europe,trabajador,rap,playa,aventura,no,10,3400,"[natura, gastronomia, comercio local]",4
+186,mujer,adulto,europe,trabajador,rap,sofa,ocio,si,15,500,"[cultura, gastronomia]",3
+187,mujer,adulto,europe,trabajador,techno,bar,aventura,si,3,8200,"[natura, gastronomia, bienestar]",3
+188,prefiero no decirlo,niño,europe,estudiante,reggeaton,playa,aventura,no,12,2100,"[cultura, educacion]",3
+189,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no,6,3300,"[deporte, gastronomia]",1
+190,mujer,niño,north america,estudiante,pop,playa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+191,mujer,adulto,south america,trabajador,pop,bar,cultura,no,1,4100,"[cultura, gastronomia]",1
+192,hombre,adulto,europe,trabajador,pop,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",4
+193,hombre,adulto,south america,trabajador,heavy metal,montaña,cultura,no,5,3900,"[comercio local, gastronomia]",5
+194,hombre,adulto,south america,trabajador,heavy metal,sofa,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+195,hombre,niño,asia,estudiante,rap,sofa,ocio,no,11,5000,"[deporte, gastronomia, oci]",1
+196,hombre,adulto,north america,nada,techno,playa,aventura,si,11,5000,"[deporte, gastronomia, oci]",4
+197,mujer,joven,north america,estudiante,reggeaton,sofa,aventura,no,6,3300,"[deporte, gastronomia]",2
+198,mujer,adulto,europe,trabajador,clasica,sofa,ocio,no,9,2100,"[oci, gastronomia]",4
+199,mujer,adulto,asia,trabajador,pop,montaña,ocio,no,9,2100,"[oci, gastronomia]",5
+200,mujer,adulto,asia,trabajador,pop,sofa,ocio,no,7,2600,"[educacion, gastronomia]",1
+201,mujer,adulto,europe,trabajador,clasica,bar,cultura,no,11,5000,"[deporte, gastronomia, oci]",1
+202,mujer,joven,europe,estudiante,pop,bar,aventura,no,10,3400,"[natura, gastronomia, comercio local]",1
+203,hombre,adulto,europe,nada,techno,playa,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",4
+204,mujer,adulto,europe,trabajador,pop,montaña,cultura,no,11,5000,"[deporte, gastronomia, oci]",2
+205,hombre,adulto,europe,estudiante,clasica,montaña,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",2
+206,mujer,joven,north america,estudiante,techno,playa,aventura,no,12,2100,"[cultura, educacion]",1
+207,hombre,joven,africa,estudiante,techno,bar,aventura,no,9,2100,"[oci, gastronomia]",5
+208,mujer,adulto,europe,jubilado,clasica,playa,cultura,no,10,3400,"[natura, gastronomia, comercio local]",5
+209,hombre,joven,europe,trabajador,pop,playa,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+210,hombre,adulto,europe,trabajador,clasica,sofa,aventura,no,10,3400,"[natura, gastronomia, comercio local]",3
+211,hombre,joven,europe,nada,techno,bar,aventura,no,8,2900,"[bienestar, gastronomia, natura]",5
+212,mujer,adulto,north america,trabajador,techno,playa,cultura,si,9,2100,"[oci, gastronomia]",2
+213,hombre,adulto,africa,nada,rap,bar,ocio,no,10,3400,"[natura, gastronomia, comercio local]",2
+214,mujer,adulto,asia,jubilado,clasica,bar,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",3
+215,mujer,adulto,europe,trabajador,clasica,sofa,cultura,si,12,2100,"[cultura, educacion]",5
+216,hombre,adulto,south america,trabajador,reggeaton,playa,ocio,si,1,4100,"[cultura, gastronomia]",2
+217,mujer,joven,europe,trabajador,reggeaton,montaña,ocio,no,9,2100,"[oci, gastronomia]",3
+218,hombre,adulto,europe,jubilado,clasica,bar,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",4
+219,mujer,joven,europe,estudiante,pop,bar,cultura,no,10,3400,"[natura, gastronomia, comercio local]",5
+220,mujer,joven,europe,estudiante,techno,montaña,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",5
+221,hombre,adulto,asia,trabajador,techno,montaña,aventura,no,11,5000,"[deporte, gastronomia, oci]",2
+222,hombre,joven,north america,estudiante,rap,bar,cultura,no,9,2100,"[oci, gastronomia]",5
+223,mujer,adulto,europe,trabajador,techno,playa,cultura,no,4,3400,"[natura, gastronomia, bienestar]",4
+224,prefiero no decirlo,adulto,europe,trabajador,rap,sofa,cultura,no,5,3900,"[comercio local, gastronomia]",5
+225,hombre,niño,europe,estudiante,techno,sofa,ocio,no,10,3400,"[natura, gastronomia, comercio local]",4
+226,prefiero no decirlo,adulto,north america,jubilado,techno,bar,aventura,no,1,4100,"[cultura, gastronomia]",1
+227,hombre,joven,asia,estudiante,rap,playa,ocio,no,6,3300,"[deporte, gastronomia]",4
+228,mujer,joven,europe,nada,reggeaton,sofa,ocio,si,6,3300,"[deporte, gastronomia]",1
+229,mujer,adulto,europe,jubilado,clasica,montaña,ocio,no,7,2600,"[educacion, gastronomia]",3
+230,mujer,joven,europe,estudiante,pop,playa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+231,hombre,adulto,asia,trabajador,heavy metal,bar,cultura,no,10,3400,"[natura, gastronomia, comercio local]",2
+232,mujer,adulto,europe,trabajador,techno,montaña,ocio,no,10,3400,"[natura, gastronomia, comercio local]",5
+233,hombre,adulto,europe,trabajador,clasica,bar,cultura,si,9,2100,"[oci, gastronomia]",5
+234,mujer,adulto,asia,trabajador,heavy metal,montaña,ocio,no,8,2900,"[bienestar, gastronomia, natura]",2
+235,mujer,adulto,asia,jubilado,techno,playa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+236,mujer,niño,south america,estudiante,pop,montaña,aventura,no,3,8200,"[natura, gastronomia, bienestar]",3
+237,hombre,adulto,oceania,jubilado,reggeaton,montaña,ocio,no,8,2900,"[bienestar, gastronomia, natura]",2
+238,mujer,adulto,north america,trabajador,pop,montaña,aventura,no,6,3300,"[deporte, gastronomia]",1
+239,hombre,joven,europe,estudiante,pop,playa,aventura,no,11,5000,"[deporte, gastronomia, oci]",3
+240,mujer,adulto,europe,trabajador,pop,bar,ocio,no,6,3300,"[deporte, gastronomia]",5
+241,hombre,adulto,south america,nada,pop,sofa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",1
+242,mujer,adulto,north america,jubilado,clasica,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",4
+243,mujer,adulto,europe,jubilado,rap,bar,aventura,si,4,3400,"[natura, gastronomia, bienestar]",5
+244,hombre,joven,europe,trabajador,rap,bar,aventura,no,5,3900,"[comercio local, gastronomia]",4
+245,hombre,adulto,europe,estudiante,rap,montaña,aventura,no,3,8200,"[natura, gastronomia, bienestar]",5
+246,hombre,joven,south america,trabajador,heavy metal,sofa,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+247,mujer,adulto,europe,jubilado,pop,bar,ocio,no,11,5000,"[deporte, gastronomia, oci]",5
+248,hombre,adulto,south america,trabajador,rap,bar,cultura,no,7,2600,"[educacion, gastronomia]",1
+249,mujer,niño,europe,estudiante,clasica,playa,aventura,no,11,5000,"[deporte, gastronomia, oci]",2
+250,mujer,adulto,south america,jubilado,heavy metal,sofa,aventura,si,12,2100,"[cultura, educacion]",4
+251,hombre,adulto,europe,jubilado,heavy metal,sofa,cultura,no,5,3900,"[comercio local, gastronomia]",2
+252,mujer,adulto,europe,jubilado,pop,playa,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+253,hombre,joven,europe,estudiante,heavy metal,sofa,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",4
+254,hombre,joven,europe,estudiante,reggeaton,bar,cultura,no,6,3300,"[deporte, gastronomia]",1
+255,hombre,adulto,europe,trabajador,heavy metal,bar,ocio,si,12,2100,"[cultura, educacion]",5
+256,mujer,adulto,north america,trabajador,clasica,playa,aventura,si,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",5
+257,hombre,adulto,europe,trabajador,heavy metal,montaña,ocio,si,6,3300,"[deporte, gastronomia]",2
+258,mujer,adulto,africa,trabajador,pop,playa,ocio,no,9,2100,"[oci, gastronomia]",1
+259,mujer,joven,europe,estudiante,reggeaton,bar,aventura,no,1,4100,"[cultura, gastronomia]",2
+260,hombre,adulto,europe,trabajador,rap,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",4
+261,hombre,adulto,europe,jubilado,pop,bar,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",1
+262,hombre,adulto,europe,trabajador,heavy metal,bar,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",3
+263,mujer,adulto,north america,trabajador,heavy metal,playa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+264,hombre,adulto,europe,trabajador,clasica,montaña,cultura,no,4,3400,"[natura, gastronomia, bienestar]",1
+265,prefiero no decirlo,adulto,europe,trabajador,rap,playa,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+266,mujer,adulto,asia,trabajador,reggeaton,bar,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",5
+267,hombre,adulto,europe,jubilado,clasica,playa,aventura,no,12,2100,"[cultura, educacion]",1
+268,prefiero no decirlo,joven,south america,estudiante,reggeaton,sofa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",1
+269,hombre,joven,europe,estudiante,techno,sofa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",2
+270,prefiero no decirlo,adulto,asia,nada,techno,playa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",4
+271,hombre,adulto,europe,trabajador,rap,playa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+272,hombre,joven,asia,estudiante,pop,sofa,cultura,no,7,2600,"[educacion, gastronomia]",2
+273,hombre,niño,north america,estudiante,pop,playa,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",4
+274,mujer,adulto,north america,nada,reggeaton,montaña,cultura,no,7,2600,"[educacion, gastronomia]",2
+275,hombre,joven,south america,trabajador,reggeaton,playa,aventura,no,5,3900,"[comercio local, gastronomia]",3
+276,prefiero no decirlo,adulto,europe,trabajador,pop,playa,ocio,no,7,2600,"[educacion, gastronomia]",5
+277,mujer,adulto,asia,trabajador,rap,montaña,aventura,no,7,2600,"[educacion, gastronomia]",2
+278,prefiero no decirlo,adulto,asia,trabajador,clasica,montaña,ocio,no,4,3400,"[natura, gastronomia, bienestar]",5
+279,mujer,joven,europe,estudiante,reggeaton,bar,ocio,no,6,3300,"[deporte, gastronomia]",1
+280,hombre,adulto,europe,jubilado,techno,playa,aventura,si,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+281,mujer,joven,asia,nada,reggeaton,sofa,aventura,no,4,3400,"[natura, gastronomia, bienestar]",3
+282,hombre,adulto,asia,nada,techno,playa,aventura,no,13,6000,"[cultura, gastronomia, comercio local]",5
+283,hombre,adulto,europe,jubilado,pop,montaña,cultura,no,1,4100,"[cultura, gastronomia]",1
+284,hombre,adulto,europe,trabajador,clasica,montaña,cultura,si,12,2100,"[cultura, educacion]",5
+285,hombre,adulto,europe,jubilado,reggeaton,sofa,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",2
+286,hombre,adulto,south america,jubilado,clasica,playa,cultura,si,3,8200,"[natura, gastronomia, bienestar]",3
+287,mujer,adulto,europe,trabajador,clasica,bar,ocio,no,12,2100,"[cultura, educacion]",4
+288,hombre,adulto,asia,trabajador,heavy metal,playa,ocio,si,7,2600,"[educacion, gastronomia]",5
+289,mujer,adulto,asia,trabajador,clasica,playa,cultura,si,0,5920,"[cultura, gastronomia, natura, oci]",4
+290,mujer,adulto,asia,nada,pop,playa,ocio,no,7,2600,"[educacion, gastronomia]",5
+291,hombre,adulto,europe,trabajador,rap,sofa,aventura,si,2,5200,"[oci, gastronomia, natura, comercio local]",1
+292,mujer,joven,oceania,estudiante,reggeaton,montaña,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",4
+293,hombre,adulto,africa,trabajador,heavy metal,playa,ocio,no,15,500,"[cultura, gastronomia]",3
+294,hombre,joven,asia,estudiante,techno,sofa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",4
+295,prefiero no decirlo,adulto,europe,trabajador,reggeaton,playa,aventura,no,11,5000,"[deporte, gastronomia, oci]",1
+296,mujer,adulto,europe,trabajador,clasica,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",5
+297,mujer,adulto,europe,trabajador,clasica,bar,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+298,hombre,adulto,europe,trabajador,heavy metal,bar,cultura,no,3,8200,"[natura, gastronomia, bienestar]",4
+299,mujer,adulto,europe,jubilado,clasica,sofa,cultura,no,9,2100,"[oci, gastronomia]",1
+300,hombre,adulto,south america,trabajador,heavy metal,montaña,aventura,no,6,3300,"[deporte, gastronomia]",4
+301,hombre,adulto,africa,trabajador,clasica,playa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+302,hombre,adulto,europe,jubilado,clasica,sofa,cultura,si,4,3400,"[natura, gastronomia, bienestar]",3
+303,hombre,niño,europe,estudiante,rap,sofa,ocio,no,12,2100,"[cultura, educacion]",1
+304,hombre,adulto,south america,jubilado,heavy metal,montaña,ocio,no,7,2600,"[educacion, gastronomia]",4
+305,mujer,adulto,asia,jubilado,pop,sofa,ocio,no,15,500,"[cultura, gastronomia]",5
+306,mujer,joven,europe,trabajador,rap,montaña,ocio,no,1,4100,"[cultura, gastronomia]",5
+307,hombre,adulto,asia,nada,pop,bar,aventura,no,10,3400,"[natura, gastronomia, comercio local]",2
+308,hombre,adulto,europe,trabajador,pop,sofa,cultura,no,12,2100,"[cultura, educacion]",4
+309,hombre,adulto,asia,trabajador,pop,sofa,aventura,no,12,2100,"[cultura, educacion]",4
+310,hombre,adulto,europe,trabajador,heavy metal,playa,cultura,si,5,3900,"[comercio local, gastronomia]",1
+311,hombre,adulto,south america,trabajador,heavy metal,bar,ocio,no,3,8200,"[natura, gastronomia, bienestar]",5
+312,hombre,niño,asia,estudiante,rap,montaña,ocio,no,9,2100,"[oci, gastronomia]",3
+313,hombre,adulto,south america,trabajador,clasica,montaña,aventura,no,7,2600,"[educacion, gastronomia]",2
+314,mujer,niño,europe,estudiante,rap,playa,aventura,no,4,3400,"[natura, gastronomia, bienestar]",2
+315,mujer,joven,south america,trabajador,pop,playa,ocio,no,5,3900,"[comercio local, gastronomia]",5
+316,mujer,joven,europe,trabajador,pop,montaña,cultura,no,8,2900,"[bienestar, gastronomia, natura]",1
+317,mujer,joven,europe,estudiante,pop,montaña,aventura,no,1,4100,"[cultura, gastronomia]",4
+318,hombre,adulto,europe,trabajador,pop,montaña,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",5
+319,mujer,adulto,asia,jubilado,pop,bar,ocio,no,6,3300,"[deporte, gastronomia]",4
+320,mujer,joven,europe,estudiante,pop,bar,cultura,no,5,3900,"[comercio local, gastronomia]",1
+321,mujer,adulto,europe,trabajador,pop,bar,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",2
+322,hombre,adulto,europe,trabajador,techno,bar,cultura,no,11,5000,"[deporte, gastronomia, oci]",4
+323,hombre,adulto,north america,jubilado,clasica,bar,cultura,no,12,2100,"[cultura, educacion]",2
+324,hombre,adulto,north america,trabajador,techno,playa,ocio,no,12,2100,"[cultura, educacion]",4
+325,hombre,adulto,north america,trabajador,reggeaton,playa,aventura,no,1,4100,"[cultura, gastronomia]",1
+326,hombre,joven,europe,estudiante,clasica,bar,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",3
+327,hombre,joven,europe,estudiante,rap,montaña,cultura,no,9,2100,"[oci, gastronomia]",2
+328,mujer,adulto,europe,trabajador,pop,playa,cultura,no,12,2100,"[cultura, educacion]",4
+329,mujer,adulto,south america,trabajador,clasica,playa,cultura,no,10,3400,"[natura, gastronomia, comercio local]",5
+330,hombre,joven,europe,trabajador,pop,montaña,cultura,no,13,6000,"[cultura, gastronomia, comercio local]",2
+331,mujer,adulto,oceania,trabajador,techno,sofa,ocio,no,6,3300,"[deporte, gastronomia]",2
+332,mujer,niño,asia,estudiante,reggeaton,sofa,aventura,no,9,2100,"[oci, gastronomia]",3
+333,prefiero no decirlo,niño,south america,estudiante,pop,playa,aventura,no,11,5000,"[deporte, gastronomia, oci]",5
+334,hombre,adulto,africa,jubilado,reggeaton,sofa,cultura,no,5,3900,"[comercio local, gastronomia]",3
+335,prefiero no decirlo,adulto,asia,trabajador,rap,bar,ocio,no,15,500,"[cultura, gastronomia]",5
+336,mujer,adulto,south america,trabajador,techno,bar,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+337,prefiero no decirlo,adulto,south america,trabajador,pop,bar,cultura,no,6,3300,"[deporte, gastronomia]",3
+338,mujer,adulto,europe,jubilado,heavy metal,sofa,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+339,hombre,joven,europe,estudiante,pop,montaña,aventura,no,5,3900,"[comercio local, gastronomia]",5
+340,mujer,adulto,europe,trabajador,reggeaton,sofa,aventura,no,5,3900,"[comercio local, gastronomia]",5
+341,mujer,niño,europe,estudiante,pop,playa,ocio,no,14,5700,"[cultura, gastronomia, comercio local]",4
+342,prefiero no decirlo,joven,oceania,trabajador,techno,playa,ocio,no,9,2100,"[oci, gastronomia]",5
+343,mujer,joven,oceania,estudiante,reggeaton,montaña,aventura,no,15,500,"[cultura, gastronomia]",5
+344,prefiero no decirlo,adulto,north america,nada,rap,bar,ocio,no,4,3400,"[natura, gastronomia, bienestar]",2
+345,hombre,adulto,oceania,trabajador,rap,montaña,aventura,no,6,3300,"[deporte, gastronomia]",5
+346,mujer,joven,north america,estudiante,reggeaton,bar,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",5
+347,mujer,niño,europe,estudiante,rap,sofa,aventura,no,12,2100,"[cultura, educacion]",2
+348,mujer,adulto,oceania,trabajador,pop,bar,ocio,no,1,4100,"[cultura, gastronomia]",5
+349,mujer,adulto,asia,trabajador,clasica,bar,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",4
+350,hombre,joven,europe,estudiante,reggeaton,sofa,ocio,no,8,2900,"[bienestar, gastronomia, natura]",4
+351,hombre,adulto,south america,nada,heavy metal,playa,cultura,si,12,2100,"[cultura, educacion]",5
+352,mujer,adulto,europe,trabajador,techno,montaña,ocio,no,3,8200,"[natura, gastronomia, bienestar]",1
+353,mujer,adulto,asia,nada,pop,bar,aventura,si,4,3400,"[natura, gastronomia, bienestar]",2
+354,mujer,joven,oceania,estudiante,pop,playa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",5
+355,mujer,niño,europe,estudiante,techno,playa,ocio,no,12,2100,"[cultura, educacion]",3
+356,mujer,adulto,europe,trabajador,pop,bar,aventura,si,13,6000,"[cultura, gastronomia, comercio local]",5
+357,hombre,niño,europe,estudiante,reggeaton,sofa,ocio,no,14,5700,"[cultura, gastronomia, comercio local]",5
+358,hombre,adulto,south america,nada,clasica,sofa,cultura,no,7,2600,"[educacion, gastronomia]",1
+359,mujer,adulto,europe,jubilado,pop,montaña,cultura,si,10,3400,"[natura, gastronomia, comercio local]",5
+360,prefiero no decirlo,joven,asia,estudiante,reggeaton,bar,aventura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",2
+361,mujer,adulto,europe,nada,clasica,montaña,cultura,si,8,2900,"[bienestar, gastronomia, natura]",4
+362,hombre,adulto,north america,jubilado,heavy metal,sofa,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+363,hombre,joven,asia,trabajador,reggeaton,bar,aventura,no,12,2100,"[cultura, educacion]",3
+364,hombre,adulto,europe,nada,pop,sofa,ocio,si,2,5200,"[oci, gastronomia, natura, comercio local]",2
+365,hombre,adulto,europe,trabajador,heavy metal,bar,aventura,no,3,8200,"[natura, gastronomia, bienestar]",2
+366,hombre,adulto,asia,estudiante,pop,bar,aventura,no,1,4100,"[cultura, gastronomia]",2
+367,hombre,adulto,europe,trabajador,pop,playa,cultura,si,7,2600,"[educacion, gastronomia]",5
+368,hombre,joven,europe,estudiante,heavy metal,playa,cultura,si,13,6000,"[cultura, gastronomia, comercio local]",1
+369,prefiero no decirlo,niño,europe,estudiante,rap,playa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+370,prefiero no decirlo,niño,south america,estudiante,techno,playa,cultura,no,11,5000,"[deporte, gastronomia, oci]",3
+371,hombre,joven,europe,estudiante,techno,playa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+372,hombre,niño,asia,estudiante,techno,montaña,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",1
+373,mujer,adulto,europe,estudiante,techno,bar,ocio,no,9,2100,"[oci, gastronomia]",3
+374,mujer,adulto,europe,jubilado,clasica,playa,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+375,hombre,adulto,north america,jubilado,pop,bar,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+376,prefiero no decirlo,joven,asia,estudiante,pop,bar,ocio,no,4,3400,"[natura, gastronomia, bienestar]",1
+377,prefiero no decirlo,joven,south america,trabajador,rap,bar,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",4
+378,hombre,adulto,africa,jubilado,techno,montaña,cultura,no,3,8200,"[natura, gastronomia, bienestar]",5
+379,prefiero no decirlo,adulto,europe,trabajador,rap,montaña,ocio,no,6,3300,"[deporte, gastronomia]",5
+380,mujer,joven,south america,estudiante,pop,playa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",4
+381,mujer,adulto,south america,trabajador,pop,sofa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",1
+382,hombre,joven,europe,estudiante,reggeaton,sofa,cultura,no,10,3400,"[natura, gastronomia, comercio local]",2
+383,hombre,niño,europe,estudiante,techno,sofa,cultura,no,12,2100,"[cultura, educacion]",5
+384,mujer,joven,europe,estudiante,clasica,bar,ocio,no,3,8200,"[natura, gastronomia, bienestar]",2
+385,hombre,adulto,south america,trabajador,techno,bar,ocio,no,4,3400,"[natura, gastronomia, bienestar]",4
+386,mujer,adulto,europe,trabajador,pop,montaña,ocio,no,10,3400,"[natura, gastronomia, comercio local]",3
+387,hombre,adulto,asia,trabajador,clasica,playa,aventura,si,11,5000,"[deporte, gastronomia, oci]",3
+388,mujer,adulto,europe,jubilado,clasica,bar,aventura,no,3,8200,"[natura, gastronomia, bienestar]",5
+389,mujer,joven,europe,estudiante,pop,bar,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",5
+390,hombre,joven,south america,estudiante,heavy metal,bar,aventura,no,10,3400,"[natura, gastronomia, comercio local]",5
+391,mujer,adulto,europe,trabajador,heavy metal,bar,aventura,no,4,3400,"[natura, gastronomia, bienestar]",2
+392,mujer,adulto,europe,trabajador,clasica,montaña,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+393,mujer,adulto,asia,nada,clasica,playa,ocio,no,10,3400,"[natura, gastronomia, comercio local]",3
+394,mujer,adulto,europe,trabajador,pop,bar,cultura,no,11,5000,"[deporte, gastronomia, oci]",4
+395,prefiero no decirlo,adulto,asia,jubilado,techno,playa,ocio,no,1,4100,"[cultura, gastronomia]",5
+396,mujer,adulto,asia,jubilado,pop,montaña,ocio,no,5,3900,"[comercio local, gastronomia]",1
+397,hombre,adulto,europe,trabajador,clasica,montaña,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",2
+398,mujer,adulto,europe,trabajador,pop,playa,ocio,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+399,hombre,adulto,asia,trabajador,clasica,montaña,aventura,no,4,3400,"[natura, gastronomia, bienestar]",4
+400,hombre,joven,north america,estudiante,heavy metal,playa,ocio,no,5,3900,"[comercio local, gastronomia]",2
+401,hombre,adulto,europe,jubilado,heavy metal,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",2
+402,mujer,adulto,europe,trabajador,pop,sofa,ocio,si,1,4100,"[cultura, gastronomia]",5
+403,mujer,adulto,europe,trabajador,techno,playa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",5
+404,mujer,joven,europe,estudiante,pop,bar,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",3
+405,mujer,adulto,europe,nada,heavy metal,sofa,aventura,no,15,500,"[cultura, gastronomia]",2
+406,hombre,niño,europe,estudiante,pop,playa,aventura,no,15,500,"[cultura, gastronomia]",3
+407,mujer,adulto,europe,estudiante,rap,playa,ocio,no,4,3400,"[natura, gastronomia, bienestar]",1
+408,mujer,joven,europe,estudiante,reggeaton,montaña,cultura,no,9,2100,"[oci, gastronomia]",1
+409,hombre,niño,europe,estudiante,rap,montaña,aventura,no,10,3400,"[natura, gastronomia, comercio local]",5
+410,hombre,joven,europe,trabajador,rap,montaña,cultura,no,8,2900,"[bienestar, gastronomia, natura]",2
+411,mujer,adulto,asia,trabajador,reggeaton,sofa,cultura,no,9,2100,"[oci, gastronomia]",4
+412,mujer,adulto,europe,trabajador,clasica,montaña,aventura,no,1,4100,"[cultura, gastronomia]",3
+413,mujer,adulto,asia,jubilado,clasica,montaña,aventura,no,15,500,"[cultura, gastronomia]",5
+414,mujer,niño,north america,estudiante,techno,playa,aventura,no,6,3300,"[deporte, gastronomia]",1
+415,hombre,adulto,europe,trabajador,techno,bar,cultura,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+416,mujer,adulto,asia,trabajador,reggeaton,montaña,aventura,no,6,3300,"[deporte, gastronomia]",2
+417,mujer,adulto,africa,trabajador,pop,playa,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",5
+418,hombre,adulto,north america,trabajador,pop,bar,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",3
+419,hombre,adulto,europe,trabajador,heavy metal,sofa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",5
+420,hombre,adulto,europe,trabajador,pop,montaña,cultura,no,1,4100,"[cultura, gastronomia]",3
+421,hombre,joven,south america,estudiante,rap,playa,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",3
+422,hombre,adulto,north america,jubilado,heavy metal,bar,cultura,no,11,5000,"[deporte, gastronomia, oci]",1
+423,mujer,joven,europe,estudiante,pop,montaña,aventura,no,0,5920,"[cultura, gastronomia, natura, oci]",1
+424,mujer,joven,europe,trabajador,pop,bar,aventura,no,8,2900,"[bienestar, gastronomia, natura]",3
+425,hombre,adulto,europe,trabajador,pop,bar,cultura,no,1,4100,"[cultura, gastronomia]",3
+426,hombre,adulto,asia,trabajador,heavy metal,sofa,cultura,si,1,4100,"[cultura, gastronomia]",4
+427,hombre,adulto,europe,trabajador,reggeaton,sofa,ocio,no,11,5000,"[deporte, gastronomia, oci]",5
+428,mujer,adulto,europe,trabajador,clasica,bar,ocio,no,9,2100,"[oci, gastronomia]",3
+429,mujer,joven,europe,trabajador,techno,playa,cultura,no,6,3300,"[deporte, gastronomia]",3
+430,mujer,adulto,south america,trabajador,clasica,montaña,aventura,no,9,2100,"[oci, gastronomia]",2
+431,mujer,adulto,europe,trabajador,pop,montaña,cultura,no,1,4100,"[cultura, gastronomia]",1
+432,mujer,adulto,north america,trabajador,clasica,sofa,cultura,no,3,8200,"[natura, gastronomia, bienestar]",5
+433,hombre,adulto,africa,trabajador,heavy metal,playa,ocio,no,8,2900,"[bienestar, gastronomia, natura]",1
+434,hombre,niño,asia,estudiante,rap,sofa,cultura,no,8,2900,"[bienestar, gastronomia, natura]",4
+435,prefiero no decirlo,adulto,europe,trabajador,pop,montaña,cultura,no,10,3400,"[natura, gastronomia, comercio local]",5
+436,hombre,adulto,europe,estudiante,clasica,sofa,ocio,no,13,6000,"[cultura, gastronomia, comercio local]",3
+437,hombre,joven,europe,estudiante,reggeaton,montaña,cultura,no,9,2100,"[oci, gastronomia]",3
+438,hombre,adulto,europe,nada,clasica,playa,ocio,si,6,3300,"[deporte, gastronomia]",1
+439,prefiero no decirlo,joven,north america,estudiante,reggeaton,bar,cultura,no,10,3400,"[natura, gastronomia, comercio local]",3
+440,mujer,adulto,europe,trabajador,pop,sofa,cultura,si,5,3900,"[comercio local, gastronomia]",3
+441,hombre,adulto,europe,trabajador,heavy metal,playa,aventura,si,7,2600,"[educacion, gastronomia]",1
+442,hombre,niño,south america,estudiante,heavy metal,playa,aventura,no,8,2900,"[bienestar, gastronomia, natura]",5
+443,hombre,adulto,europe,trabajador,clasica,montaña,ocio,no,5,3900,"[comercio local, gastronomia]",2
+444,hombre,adulto,south america,estudiante,pop,playa,aventura,no,12,2100,"[cultura, educacion]",4
+445,hombre,niño,africa,estudiante,rap,sofa,ocio,no,5,3900,"[comercio local, gastronomia]",5
+446,mujer,niño,europe,estudiante,reggeaton,playa,aventura,no,10,3400,"[natura, gastronomia, comercio local]",5
+447,mujer,niño,europe,estudiante,techno,playa,cultura,no,9,2100,"[oci, gastronomia]",5
+448,prefiero no decirlo,adulto,europe,trabajador,rap,bar,ocio,no,0,5920,"[cultura, gastronomia, natura, oci]",4
+449,mujer,adulto,europe,estudiante,techno,playa,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+450,mujer,adulto,europe,trabajador,techno,playa,ocio,no,3,8200,"[natura, gastronomia, bienestar]",2
+451,hombre,joven,europe,estudiante,reggeaton,montaña,aventura,no,1,4100,"[cultura, gastronomia]",3
+452,hombre,joven,asia,estudiante,heavy metal,sofa,aventura,no,1,4100,"[cultura, gastronomia]",1
+453,mujer,adulto,europe,trabajador,rap,montaña,aventura,no,6,3300,"[deporte, gastronomia]",4
+454,mujer,adulto,europe,nada,clasica,montaña,ocio,si,3,8200,"[natura, gastronomia, bienestar]",1
+455,mujer,adulto,south america,nada,pop,montaña,cultura,si,5,3900,"[comercio local, gastronomia]",1
+456,hombre,adulto,europe,trabajador,clasica,playa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",4
+457,mujer,adulto,europe,estudiante,pop,sofa,ocio,no,10,3400,"[natura, gastronomia, comercio local]",2
+458,mujer,adulto,south america,estudiante,techno,bar,cultura,no,7,2600,"[educacion, gastronomia]",5
+459,hombre,adulto,asia,trabajador,techno,sofa,ocio,no,7,2600,"[educacion, gastronomia]",5
+460,mujer,niño,asia,estudiante,pop,montaña,cultura,no,0,5920,"[cultura, gastronomia, natura, oci]",3
+461,mujer,joven,europe,estudiante,rap,sofa,ocio,no,7,2600,"[educacion, gastronomia]",4
+462,hombre,adulto,asia,jubilado,rap,montaña,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",2
+463,hombre,joven,oceania,estudiante,reggeaton,montaña,ocio,no,12,2100,"[cultura, educacion]",5
+464,mujer,joven,europe,estudiante,reggeaton,montaña,aventura,no,5,3900,"[comercio local, gastronomia]",4
+465,prefiero no decirlo,adulto,asia,trabajador,reggeaton,montaña,ocio,no,11,5000,"[deporte, gastronomia, oci]",3
+466,hombre,adulto,south america,jubilado,heavy metal,bar,aventura,no,6,3300,"[deporte, gastronomia]",3
+467,hombre,adulto,europe,trabajador,clasica,bar,aventura,no,10,3400,"[natura, gastronomia, comercio local]",3
+468,mujer,joven,asia,estudiante,pop,montaña,cultura,no,7,2600,"[educacion, gastronomia]",1
+469,hombre,adulto,north america,nada,heavy metal,sofa,ocio,no,2,5200,"[oci, gastronomia, natura, comercio local]",5
+470,hombre,adulto,asia,trabajador,pop,sofa,cultura,si,13,6000,"[cultura, gastronomia, comercio local]",3
+471,hombre,adulto,europe,trabajador,clasica,playa,aventura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+472,hombre,adulto,europe,trabajador,heavy metal,montaña,aventura,no,1,4100,"[cultura, gastronomia]",2
+473,hombre,adulto,north america,trabajador,rap,sofa,ocio,no,9,2100,"[oci, gastronomia]",1
+474,hombre,joven,africa,nada,techno,playa,cultura,no,14,5700,"[cultura, gastronomia, comercio local]",1
+475,hombre,joven,asia,nada,reggeaton,playa,cultura,no,9,2100,"[oci, gastronomia]",2
+476,mujer,niño,europe,estudiante,pop,montaña,aventura,no,4,3400,"[natura, gastronomia, bienestar]",1
+477,mujer,joven,europe,estudiante,pop,sofa,aventura,no,8,2900,"[bienestar, gastronomia, natura]",1
+478,mujer,joven,north america,nada,pop,montaña,aventura,no,12,2100,"[cultura, educacion]",1
+479,hombre,adulto,oceania,trabajador,heavy metal,montaña,cultura,si,7,2600,"[educacion, gastronomia]",1
+480,mujer,niño,europe,estudiante,reggeaton,sofa,cultura,no,15,500,"[cultura, gastronomia]",4
+481,mujer,niño,africa,estudiante,reggeaton,playa,ocio,no,15,500,"[cultura, gastronomia]",2
+482,mujer,joven,europe,nada,techno,montaña,ocio,no,15,500,"[cultura, gastronomia]",3
+483,prefiero no decirlo,adulto,europe,jubilado,reggeaton,bar,aventura,no,2,5200,"[oci, gastronomia, natura, comercio local]",4
+484,hombre,adulto,europe,trabajador,pop,bar,aventura,no,3,8200,"[natura, gastronomia, bienestar]",5
+485,hombre,joven,south america,trabajador,rap,playa,ocio,no,12,2100,"[cultura, educacion]",3
+486,mujer,adulto,europe,trabajador,clasica,bar,cultura,no,10,3400,"[natura, gastronomia, comercio local]",4
+487,mujer,adulto,europe,trabajador,clasica,sofa,cultura,no,10,3400,"[natura, gastronomia, comercio local]",4
+488,mujer,adulto,asia,trabajador,reggeaton,montaña,aventura,no,12,2100,"[cultura, educacion]",5
+489,prefiero no decirlo,adulto,europe,trabajador,techno,montaña,ocio,no,11,5000,"[deporte, gastronomia, oci]",5
+490,prefiero no decirlo,adulto,europe,trabajador,heavy metal,bar,cultura,no,6,3300,"[deporte, gastronomia]",5
+491,mujer,adulto,north america,trabajador,techno,playa,aventura,no,6,3300,"[deporte, gastronomia]",2
+492,mujer,joven,asia,estudiante,reggeaton,montaña,cultura,no,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+493,hombre,adulto,north america,trabajador,clasica,bar,ocio,si,4,3400,"[natura, gastronomia, bienestar]",4
+494,mujer,niño,north america,estudiante,rap,playa,aventura,no,3,8200,"[natura, gastronomia, bienestar]",5
+495,hombre,adulto,north america,trabajador,pop,montaña,ocio,no,7,2600,"[educacion, gastronomia]",3
+496,hombre,adulto,asia,trabajador,techno,montaña,aventura,si,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",1
+497,hombre,joven,europe,estudiante,techno,montaña,cultura,no,1,4100,"[cultura, gastronomia]",5
+498,mujer,adulto,asia,trabajador,clasica,playa,cultura,si,16,6500,"[educacion, cultura, gastronomia, natura, bienestar]",5
+499,mujer,joven,asia,estudiante,techno,playa,ocio,no,14,5700,"[cultura, gastronomia, comercio local]",2
+500,mujer,joven,europe,estudiante,pop,montaña,cultura,no,15,500,"[cultura, gastronomia]",2
